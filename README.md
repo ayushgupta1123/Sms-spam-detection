@@ -2,7 +2,7 @@
 
 A machine learning web app that classifies SMS messages as Spam or Not Spam, built with Streamlit and scikit-learn.
 
-🔗 Live Demo: []
+🔗 Live Demo: [https://sms-spam-detection-6tewiz9nyn9piffxla7vw4.streamlit.app/]
 
 
 🧠 Overview
